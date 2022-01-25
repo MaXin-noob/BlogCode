@@ -1,0 +1,4 @@
+C:/Users/ASUS/CLionProjects/mqttClient/cmake-build-debug/CMakeFiles/QtWindowsHost.dir
+C:/Users/ASUS/CLionProjects/mqttClient/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/CLionProjects/mqttClient/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ASUS/CLionProjects/mqttClient/cmake-build-debug/CMakeFiles/QtWindowsHost_autogen.dir
